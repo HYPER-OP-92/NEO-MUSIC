@@ -202,15 +202,3 @@ async def taghelp(_, message: Message):
 <b>Note:</b> Now tags one user at a time with 3 second delay between each user. Only one tagging session can run per chat at a time.
 """
     await message.reply(help_text)
-
-
-# ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
-
-# ===========================================
-# ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
-# 📢 Telegram Channel : https://t.me/ShrutiBots
-# ===========================================
-
-
-# ❤️ Love From ShrutiBots
